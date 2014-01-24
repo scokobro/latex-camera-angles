@@ -1,0 +1,158 @@
+;; RefTeX parse info file
+;; File: /Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex
+;; User: spkb (Scott Koga-Browes)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags "idx")
+
+(is-multi t)
+
+(bibview-cache)
+
+(master-dir . "/Users/spkb/Desktop/My Papers/CameraAngles/latex/")
+
+(label-numbers)
+
+(bof "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex")
+
+(bof "/Users/spkb/Desktop/My Papers/CameraAngles/latex/header.tex")
+
+(eof "/Users/spkb/Desktop/My Papers/CameraAngles/latex/header.tex")
+
+(bof "/Users/spkb/Desktop/My Papers/CameraAngles/latex/begin.tex")
+
+(eof "/Users/spkb/Desktop/My Papers/CameraAngles/latex/begin.tex")
+
+("abstract" "s" "\\noindent abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract " "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil)
+
+(toc "toc" "    1 Objectivity" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil 2 "1" "\\section{Objectivity}" 802)
+
+(toc "toc" "    2 Semiotic studies of television" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil 2 "2" "\\section{Semiotic studies of television}" 2019)
+
+(index "idx" "(GUMG)\\index{Glasgow University Media Group}\\index{GUMG}" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" 5098 "Glasgow University Media Group" "Glasgow University Media Group" "Glasgow University Media Group" "glasgow university media group" nil)
+
+(index "idx" "Group}\\index{GUMG}" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" 5136 "GUMG" "GUMG" "GUMG" "gumg" nil)
+
+(toc "toc" "      2.1 Eco and television" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil 3 "2.1" "\\subsection{Eco and television}" 7353)
+
+("subsec:eco" "s" "%Further to his \\emph{General Theory of Semiotics} which aims to be a general theory of signs and si" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil)
+
+(index "idx" "decoding'\\index{aberrant decoding}" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" 8561 "aberrant decoding" "aberrant decoding" "aberrant decoding" "aberrant decoding" nil)
+
+(toc "toc" "          2.1.0.1 Strong and Weak codes" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil 5 "2.1.0.1" "\\paragraph{Strong and Weak codes}" 8862)
+
+(toc "toc" "          2.1.0.2 Minimal units" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil 5 "2.1.0.2" "\\paragraph{Minimal units}" 11536)
+
+(toc "toc" "      2.2 `Reading Television'" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil 3 "2.2" "\\subsection{`Reading Television'}" 14710)
+
+(toc "toc" "      2.3 Halliday and `Social Semiotics'" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil 3 "2.3" "\\subsection{Halliday and `Social Semiotics'}" 17049)
+
+("halliday" "s" "Previous sections in this chapter may have given the impression that the majority of encounters betw" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil)
+
+(index "idx" "`metafunctions'\\index{metafunctions}" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" 18963 "metafunctions" "metafunctions" "metafunctions" "metafunctions" nil)
+
+("list:metafuncs" "s" "\\citep[588-590]{Halliday:2004} " "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil)
+
+(index "idx" "%Eisenstein\\index{Eisenstein, Sergei}" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" 23210 "Eisenstein, Sergei" "Eisenstein, Sergei" "Eisenstein, Sergei" "eisenstein, sergei" nil)
+
+(index "idx" "theatre\\index{Kabuki theatre}" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" 23402 "Kabuki theatre" "Kabuki theatre" "Kabuki theatre" "kabuki theatre" nil)
+
+(toc "toc" "        2.3.1 `Visual Grammar'" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil 4 "2.3.1" "\\subsubsection{`Visual Grammar'}" 24723)
+
+(toc "toc" "          2.3.1.1 \\textit{Reading Images}" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil 5 "2.3.1.1" "\\paragraph{\\textit{Reading Images}}" 25880)
+
+(toc "toc" "    3 FROM CH3: Camera angles" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil 2 "3" "\\section{FROM CH3: Camera angles}" 29018)
+
+("sec:camangles" "s" "\\subsubsection{Vertical angle and Power} The convention of using variations in vertical camera angle" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil)
+
+(toc "toc" "        3.0.1 Vertical angle and Power" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil 4 "3.0.1" "\\subsubsection{Vertical angle and Power}" 29074)
+
+("subsubsec:vang" "s" "The convention of using variations in vertical camera angle\\index{camera~angle!vertical}, that is wh" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil)
+
+(index "idx" "angle\\index{camera~angle!vertical}," "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" 29197 "camera~angle!vertical" "camera~angle!vertical" "camera~angle ! vertical" "camera~angle!vertical" nil)
+
+(toc "toc" "        3.0.2 Horizontal angle and Engagement" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil 4 "3.0.2" "\\subsubsection{Horizontal angle and Engagement}" 33400)
+
+(index "idx" "\\index{horizontality}%HORIZONTALITY%%%%%" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" 33448 "horizontality" "horizontality" "horizontality" "horizontality" nil)
+
+(index "idx" "expert\\index{camera~angle!horizontal}" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" 34265 "camera~angle!horizontal" "camera~angle!horizontal" "camera~angle ! horizontal" "camera~angle!horizontal" nil)
+
+(toc "toc" "    4 Methodology" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil 2 "4" "\\section{Methodology}" 37244)
+
+(toc "toc" "        4.0.1 Camera Angles" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil 4 "4.0.1" "\\subsubsection{Camera Angles}" 37267)
+
+("coding:camang" "t" "Coding: Camera angles" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil)
+
+(toc "toc" "    5 Results" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil 2 "5" "\\section{Results}" 39360)
+
+(toc "toc" "      5.1 Camera Angles: FOUND IN THESIS CORPUS" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil 3 "5.1" "\\subsection{Camera Angles: FOUND IN THESIS CORPUS}" 39379)
+
+("tab:vhcrosstab" "t" "Vertical and horizontal camera angles" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil)
+
+("fig:ang-dist" "f" "Distribution of vertical and horizontal camera angles" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil)
+
+(toc "toc" "      5.2 Variations of camera angle and gender" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil 3 "5.2" "\\subsection{Variations of camera angle and gender}" 46762)
+
+("subsec:gen-var" "s" "The variations in distribution of camera angles across gender are minimal. Although absolute counts " "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil)
+
+("fig:hangbygender" "f" "Similarity in horizontal and vertical angles by gender" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil)
+
+(toc "toc" "      5.3 Camera angles and ELITES" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil 3 "5.3" "\\subsection{Camera angles and ELITES}" 50881)
+
+("senior-control" "s" "Figure \\ref{fig:vhang-stat} (left chart) shows the distribution of horizontal camera angles by elite" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil)
+
+("para:pres+status" "s" " " "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil)
+
+("fig:vhang-stat" "f" "Variations in horizontal and vertical angles by status" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil)
+
+(toc "toc" "      5.4 Cam angs and AGE" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil 3 "5.4" "\\subsection{Cam angs and AGE}" 55312)
+
+(toc "toc" "          5.4.0.1 Camera Angles" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil 5 "5.4.0.1" "\\paragraph{Camera Angles}" 55342)
+
+("fig:age-Hang" "f" "Horizontal camera angles for social actors in different age groups" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil)
+
+("fig:age-Vang" "f" "Vertical camera angles for social actors in different age groups" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil)
+
+(toc "toc" "    6 Case study: hi and lo angles" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil 2 "6" "\\section{Case study: hi and lo angles}" 60366)
+
+("cs:angles" "s" "%\\section{Case Study 2: Interpretation of Vertical Camera Angles} This study, through the coding pro" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil)
+
+(toc "toc" "      6.1 Vertical camera angle and `power'" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil 3 "6.1" "\\subsection{Vertical camera angle and `power'}" 61577)
+
+(toc "toc" "        6.1.1 Low-angle shots and the `empowerment' of the portrayed" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil 4 "6.1.1" "\\subsubsection{Low-angle shots and the `empowerment' of the portrayed}" 62503)
+
+("fig:lowanglemontage" "f" "Very low-angle images" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil)
+
+(index "idx" "Komeito\\index{Komeito}" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" 67895 "Komeito" "Komeito" "Komeito" "komeito" nil)
+
+(toc "toc" "        6.1.2 Low-angle shots and non-human images" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil 4 "6.1.2" "\\subsubsection{Low-angle shots and non-human images}" 73500)
+
+("subsubsec:nonhum" "s" "In this short section I look briefly at two uses of low angle shots regularly used in the portrayal " "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil)
+
+(toc "toc" "          6.1.2.1 `Crime Doors'" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil 5 "6.1.2.1" "\\paragraph{`Crime Doors'}" 73952)
+
+("fig:crimedoors" "f" "House and apartment doors connected with crime" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil)
+
+(toc "toc" "          6.1.2.2 `Official Windows'" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil 5 "6.1.2.2" "\\paragraph{`Official Windows'}" 77195)
+
+("mont:windows" "f" "Official buildings' windows as proxy actors" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil)
+
+(toc "toc" "      6.2 High-angle shots: visual access" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil 3 "6.2" "\\subsection{High-angle shots: visual access}" 79236)
+
+("fig:montage-hiang" "f" "Montage of high-angle camera shots" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil)
+
+("fig:framvang" "f" "Distribution of framing sizes by vertical camera angle" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil)
+
+(toc "toc" "      6.3 Summary" "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex" nil 3 "6.3" "\\subsection{Summary}" 87601)
+
+(bof "/Users/spkb/Desktop/My Papers/CameraAngles/latex/footer.tex")
+
+(eof "/Users/spkb/Desktop/My Papers/CameraAngles/latex/footer.tex")
+
+(eof "/Users/spkb/Desktop/My Papers/CameraAngles/latex/camera angles.tex")
+))
+

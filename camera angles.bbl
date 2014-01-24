@@ -1,0 +1,1111 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 1.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{Altheide:1976}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Altheide}{A.}%
+     {David~L.}{D.~L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {SAGE}%
+  }
+  \strng{namehash}{ADL1}
+  \strng{fullhash}{ADL1}
+  \field{labelyear}{1976}
+  \field{sortinit}{A}
+  \field{title}{Creating Reality: How TV News Distorts Events}
+  \list{location}{1}{%
+    {Beverly Hills CA; London}%
+  }
+  \field{annotation}{%
+  grindstaff turow%
+  }
+  \field{year}{1976}
+\endentry
+
+\entry{Bordwell:1993}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Bordwell}{B.}%
+     {D}{D}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Thompson}{T.}%
+     {K}{K}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {McGraw Hill}%
+  }
+  \keyw{film, cinema}
+  \strng{namehash}{BDTK1}
+  \strng{fullhash}{BDTK1}
+  \field{labelyear}{1993}
+  \field{sortinit}{B}
+  \field{edition}{4th}
+  \field{title}{Film Art: An Introduction}
+  \list{location}{1}{%
+    {New York}%
+  }
+  \field{year}{1993}
+\endentry
+
+\entry{Dondis:1974}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Dondis}{D.}%
+     {Donis~A.}{D.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {MIT}%
+  }
+  \strng{namehash}{DDA1}
+  \strng{fullhash}{DDA1}
+  \field{labelyear}{1974}
+  \field{sortinit}{D}
+  \field{title}{A Primer of Visual Literacy}
+  \list{location}{1}{%
+    {London; Cambridge MA}%
+  }
+  \field{annotation}{%
+  A primer of visual literacy%
+  }
+  \field{year}{1974}
+\endentry
+
+\entry{Eco:1965}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Eco}{E.}%
+     {Umberto}{U.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Corner}{C.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hawthorn}{H.}%
+     {Jeremy}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Edward Arnold}%
+  }
+  \strng{namehash}{EU1}
+  \strng{fullhash}{EU1}
+  \field{labelyear}{[1965]1980}
+  \field{sortinit}{E}
+  \field{booktitle}{Communication Studies : An Introductory Reader}
+  \field{pages}{103\bibrangedash 121}
+  \field{title}{Towards a Semiotic Inquiry into the Television Message}
+  \list{location}{1}{%
+    {London}%
+  }
+  \field{year}{[1965]1980}
+\endentry
+
+\entry{Eco:1976}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Eco}{E.}%
+     {Umberto}{U.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Indiana University Press}%
+  }
+  \strng{namehash}{EU1}
+  \strng{fullhash}{EU1}
+  \field{labelyear}{1976}
+  \field{sortinit}{E}
+  \field{series}{Advances in Semiotics}
+  \field{title}{A Theory of Semiotics}
+  \list{location}{1}{%
+    {Bloomington IN}%
+  }
+  \field{year}{1976}
+\endentry
+
+\entry{Eldridge:1995}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Eldridge}{E.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {{Glasgow University Media Group}}{G.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Routledge}%
+  }
+  \keyw{Television Social aspects. Television broadcasting of news.}
+  \strng{namehash}{EJG1}
+  \strng{fullhash}{EJG1}
+  \field{labelyear}{1995}
+  \field{sortinit}{E}
+  \field{title}{The Glasgow Media Group Reader Vol.1, News Content, Language
+  and Visuals}
+  \list{location}{1}{%
+    {London}%
+  }
+  \field{annotation}{%
+  The Glasgow media group reader Vol.1, News content, language and visuals%
+  }
+  \field{year}{1995}
+\endentry
+
+\entry{Fiske:1978}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Fiske}{F.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hartley}{H.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Methuen}%
+  }
+  \keyw{television criticism, television broadcasting, social
+  aspects,television programmes, semiotic aspects}
+  \strng{namehash}{FJHJ1}
+  \strng{fullhash}{FJHJ1}
+  \field{labelyear}{1978}
+  \field{sortinit}{F}
+  \field{isbn}{0416855601 0416855806 : 5.50}
+  \field{title}{Reading Television}
+  \list{location}{1}{%
+    {London}%
+  }
+  \field{annotation}{%
+  Reading television%
+  }
+  \field{year}{1978}
+\endentry
+
+\entry{Frank:1973a}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Frank}{F.}%
+     {Robert}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Lexington Books}%
+  }
+  \strng{namehash}{FR1}
+  \strng{fullhash}{FR1}
+  \field{labelyear}{1973}
+  \field{sortinit}{F}
+  \field{title}{Message Dimensions of Television News}
+  \list{location}{1}{%
+    {Lexington MA}%
+  }
+  \field{year}{1973}
+\endentry
+
+\entry{Freeman:2000}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Freeman}{F.}%
+     {Laurie~Anne}{L.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Princeton University Press}%
+  }
+  \keyw{Mass media,Politics,Japan, Japan,Mass media, Censorship}
+  \strng{namehash}{FLA1}
+  \strng{fullhash}{FLA1}
+  \field{labelyear}{2000}
+  \field{sortinit}{F}
+  \field{isbn}{0691059543 (cloth : alk. paper) CIP entry}
+  \field{title}{Closing the Shop: Information Cartels and Japan's Mass Media}
+  \list{location}{1}{%
+    {Princeton NJ}%
+  }
+  \field{annotation}{%
+  Closing the shop : information cartels and Japan's mass media%
+  }
+  \field{year}{2000}
+\endentry
+
+\entry{Gans:1980}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Gans}{G.}%
+     {Herbert~J.}{H.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Vintage}%
+  }
+  \keyw{Journalism, United States,news selection}
+  \strng{namehash}{GHJ1}
+  \strng{fullhash}{GHJ1}
+  \field{labelyear}{1980}
+  \field{sortinit}{G}
+  \field{isbn}{0094633908 : 7.95}
+  \field{title}{Deciding What's News: A Study of CBS Evening News, NBC Nightly
+  News, `Newsweek' and `Time'}
+  \list{location}{1}{%
+    {New York}%
+  }
+  \field{annotation}{%
+  Deciding what's news : a study of CBS evening news, NBC nightly news,
+  'Newsweek' and 'Time'%
+  }
+  \field{year}{1980}
+\endentry
+
+\entry{Goodman:1976}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Goodman}{G.}%
+     {Nelson}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Hackett Publishing}%
+  }
+  \strng{namehash}{GN1}
+  \strng{fullhash}{GN1}
+  \field{labelyear}{1976}
+  \field{sortinit}{G}
+  \field{title}{Languages of Art: An Approach to the Theory of Symbols}
+  \list{location}{1}{%
+    {Indianapolis IN}%
+  }
+  \field{year}{1976}
+\endentry
+
+\entry{Grimes:1991}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Grimes}{G.}%
+     {Tom}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GT1}
+  \strng{fullhash}{GT1}
+  \field{labelyear}{1991}
+  \field{sortinit}{G}
+  \field{number}{2}
+  \field{pages}{268\bibrangedash 298}
+  \field{title}{Mild Auditory-Visual Dissonance in Television News May Exceed
+  Viewer Attentional Capacity}
+  \field{volume}{18}
+  \field{journaltitle}{Human Communication Research}
+  \field{annotation}{%
+  TOM GRIMES%
+  }
+  \field{year}{1991}
+\endentry
+
+\entry{Halliday:1973}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Halliday}{H.}%
+     {M.~A.~K.}{M.~A.~K.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Edward Arnold}%
+  }
+  \keyw{linguistics}
+  \strng{namehash}{HMAK1}
+  \strng{fullhash}{HMAK1}
+  \field{labelyear}{1973}
+  \field{sortinit}{H}
+  \field{isbn}{0713117389}
+  \field{title}{Explorations in the Functions of Language}
+  \list{location}{1}{%
+    {London}%
+  }
+  \field{annotation}{%
+  Explorations in the functions of language%
+  }
+  \field{year}{1973}
+\endentry
+
+\entry{Halliday:1978}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Halliday}{H.}%
+     {M.~A.~K.}{M.~A.~K.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Edward Arnold}%
+  }
+  \keyw{Sociolinguistics, Semiotics, Language,education}
+  \strng{namehash}{HMAK1}
+  \strng{fullhash}{HMAK1}
+  \field{labelyear}{1978}
+  \field{sortinit}{H}
+  \field{isbn}{0713159677 : 9.95}
+  \field{title}{Language as Social Semiotic: the Social Interpretation of
+  Language and Meaning}
+  \list{location}{1}{%
+    {London}%
+  }
+  \field{annotation}{%
+  Language as social semiotic : the social interpretation of language and
+  meaning%
+  }
+  \field{year}{1978}
+\endentry
+
+\entry{Halliday:2004}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Halliday}{H.}%
+     {M.~A.~K.}{M.~A.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Matthiessen}{M.}%
+     {Christian M. I.~M.}{C.~M. I.~M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Arnold}%
+  }
+  \keyw{English language Grammar, Functionalism}
+  \strng{namehash}{HMAKMCMIM1}
+  \strng{fullhash}{HMAKMCMIM1}
+  \field{labelyear}{2004}
+  \field{sortinit}{H}
+  \field{edition}{3rd}
+  \field{isbn}{0340761679 (pbk) : 24.99}
+  \field{note}{(rev. {C.M.I.M. Matthiessen})}
+  \field{title}{An Introduction to Functional Grammar}
+  \list{location}{1}{%
+    {London}%
+  }
+  \field{annotation}{%
+  An introduction to functional grammar (3rd Ed.)%
+  }
+  \field{year}{2004}
+\endentry
+
+\entry{Hodge:1988}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Hodge}{H.}%
+     {Bob}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kress}{K.}%
+     {Gunther~R.}{G.~R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Polity}%
+  }
+  \keyw{Nonverbal communication,Social psychology}
+  \strng{namehash}{HBKGR1}
+  \strng{fullhash}{HBKGR1}
+  \field{labelyear}{1988}
+  \field{sortinit}{H}
+  \field{title}{Social Semiotics}
+  \list{location}{1}{%
+    {Cambridge}%
+  }
+  \field{annotation}{%
+  Social semiotics%
+  }
+  \field{year}{1988}
+\endentry
+
+\entry{Jobes:1961}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Jobes}{J.}%
+     {Gertrude}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Scarecrow Press}%
+  }
+  \keyw{imported}
+  \strng{namehash}{JG1}
+  \strng{fullhash}{JG1}
+  \field{labelyear}{1961}
+  \field{sortinit}{J}
+  \field{title}{Dictionary of mythology, folklore and symbols.}
+  \list{location}{1}{%
+    {New York}%
+  }
+  \field{year}{1961}
+\endentry
+
+\entry{Kress:1996}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Kress}{K.}%
+     {Gunther~R.}{G.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Leeuwen}{L.}%
+     {Theo}{T.}%
+     {van}{v.}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Routledge}%
+  }
+  \keyw{Visual, design, images, perception, Semiotics}
+  \strng{namehash}{KGRLTv1}
+  \strng{fullhash}{KGRLTv1}
+  \field{labelyear}{2006}
+  \field{sortinit}{K}
+  \field{edition}{2nd}
+  \field{title}{Reading Images: the Grammar of Visual Design}
+  \list{location}{1}{%
+    {London}%
+  }
+  \field{annotation}{%
+  Reading images : the grammar of visual design%
+  }
+  \field{year}{2006}
+\endentry
+
+\entry{Lang:1953}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Lang}{L.}%
+     {Kurt}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lang}{L.}%
+     {Gladys~E.}{G.~E.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{LKLGE1}
+  \strng{fullhash}{LKLGE1}
+  \field{labelyear}{1953}
+  \field{sortinit}{L}
+  \field{number}{1}
+  \field{pages}{3\bibrangedash 12}
+  \field{title}{The Unique Perspective of Television and Its Effect: A Pilot
+  Study}
+  \field{volume}{18}
+  \field{journaltitle}{American Sociological Review}
+  \field{annotation}{%
+  The Unique Perspective of Television and Its Effect: A Pilot Study%
+  }
+  \field{year}{1953}
+\endentry
+
+\entry{Leach:1972}{book}{}
+  \name{editor}{2}{}{%
+    {{}%
+     {Leach}{L.}%
+     {Maria}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Fried}{F.}%
+     {Jerome}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Funk \& Wagnalls}%
+  }
+  \keyw{folklore}
+  \strng{namehash}{LMFJ1}
+  \strng{fullhash}{LMFJ1}
+  \field{labelyear}{1972}
+  \field{sortinit}{L}
+  \field{isbn}{0308400909 9780308400900}
+  \field{title}{Standard Dictionary of Folklore, Mythology, and Legend}
+  \list{location}{1}{%
+    {New York}%
+  }
+  \field{year}{1972}
+\endentry
+
+\entry{Van-Leeuwen:1999}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Leeuwen}{L.}%
+     {Theo}{T.}%
+     {van}{v.}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Macmillan}%
+  }
+  \keyw{Speech. Music Semiotics. Sound Recording and reproducing, music}
+  \strng{namehash}{LTv1}
+  \strng{fullhash}{LTv1}
+  \field{labelyear}{1999}
+  \field{sortinit}{L}
+  \field{title}{Speech, Music, Sound}
+  \list{location}{1}{%
+    {London}%
+  }
+  \field{annotation}{%
+  Speech, music, sound%
+  }
+  \field{year}{1999}
+\endentry
+
+\entry{Van-Leeuwen:2001}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Leeuwen}{L.}%
+     {Theo}{T.}%
+     {van}{v.}%
+     {}{}}%
+    {{}%
+     {Jewitt}{J.}%
+     {Carey}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {SAGE}%
+  }
+  \keyw{Visual communication, Art and society, Visual communication, Research}
+  \strng{namehash}{LTvJC1}
+  \strng{fullhash}{LTvJC1}
+  \field{labelyear}{2001}
+  \field{sortinit}{L}
+  \field{abstract}{%
+  This text provides a comprehensive guide to the practical applications of a
+  wide range of methodological approaches to visual analysis.%
+  }
+  \field{title}{Handbook of Visual Analysis}
+  \list{location}{1}{%
+    {London}%
+  }
+  \field{annotation}{%
+  Handbook of Visual Analysis%
+  }
+  \field{year}{2001}
+\endentry
+
+\entry{Machin:2006}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Machin}{M.}%
+     {David}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jaworski}{J.}%
+     {Adam}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MDJA1}
+  \strng{fullhash}{MDJA1}
+  \field{labelyear}{2006}
+  \field{sortinit}{M}
+  \field{abstract}{%
+  This article examines the use of archive footage in television news
+  bulletins. Due to economic pressures and technological changes in the
+  newsroom, there has been a general increase in the use of such secondary
+  sources in news: press releases, public relations material, photographs from
+  image banks and archive news footage. Looking at the contents of one film
+  archive and several news items that use such material, we consider the
+  implications of such footage for the nature of news as bearing witness. We
+  also ask how viewers may interpret this footage. Do they see it as actuality
+  or as indicative? Existing models of visual communication suggest two
+  possibilities: that viewers will understand the footage in terms of the way
+  it is anchored by language (Barthes) or that visual communication, like
+  language, is made up of signs that form a grammar (Kress and Van Leeuwen),
+  allowing viewers to `read' the nature of what is communicated, such as
+  whether it claims to be a true representation. We reject both views. Images
+  can communicate without language, but there are important differences between
+  images which form simple signs systems, and language which forms complex sign
+  systems. Signs in simple semiotic systems are closer to the phenomenal world
+  (Halliday, 1985) and closer therefore to the real world of our experiences.
+  They powerfully index discourses within which the linguistic accompaniment
+  can be contained. Thus, viewers are able to see archive footage as a
+  sufficient likeness of the world through its ability to index the phenomenal
+  world, and through the compelling nature of established news frames.%
+  }
+  \field{number}{3}
+  \field{pages}{345\bibrangedash 366}
+  \field{title}{Archive Video Footage in News: Creating a Likeness and Index of
+  the Phenomenal World}
+  \verb{url}
+  \verb http://vcj.sagepub.com/cgi/content/abstract/5/3/345
+  \endverb
+  \field{volume}{5}
+  \field{journaltitle}{Visual Communication}
+  \field{annotation}{%
+  Archive video footage in news: creating a likeness and index of the
+  phenomenal world%
+  }
+  \field{year}{2006}
+\endentry
+
+\entry{Mandell:1973}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Mandell}{M.}%
+     {L.~M.}{L.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Shaw}{S.}%
+     {D.~L.}{D.~L.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MLMSDL1}
+  \strng{fullhash}{MLMSDL1}
+  \field{labelyear}{1973}
+  \field{sortinit}{M}
+  \field{number}{353-362}
+  \field{title}{Judging people in the news unconsciously: Effect of camera
+  angle and bodily activity}
+  \field{volume}{17}
+  \field{journaltitle}{Journal of Broadcasting}
+  \field{annotation}{%
+  Judging people in the news unconsciously: Effect of camera angle and bodily
+  activity%
+  }
+  \field{year}{1973}
+\endentry
+
+\entry{Manning-White:1950}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Manning-White}{M.-W.}%
+     {David}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Tumber}{T.}%
+     {Howard}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \keyw{Journalism, Social aspects}
+  \strng{namehash}{MWD1}
+  \strng{fullhash}{MWD1}
+  \field{labelyear}{1950}
+  \field{sortinit}{M}
+  \field{booktitle}{News: A reader}
+  \field{isbn}{0198742320 (cased) : 40.00 0198742312 (pbk.) : 16.99}
+  \field{title}{The `Gatekeeper': A Case Study in the Selection of News}
+  \list{location}{1}{%
+    {Oxford}%
+  }
+  \field{annotation}{%
+  The 'Gatekeeper': A Case Study in the Selection of News%
+  }
+  \field{year}{1950}
+\endentry
+
+\entry{Messaris:1998}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Messaris}{M.}%
+     {P}{P}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MP1}
+  \strng{fullhash}{MP1}
+  \field{labelyear}{1998}
+  \field{sortinit}{M}
+  \field{pages}{70\bibrangedash 80}
+  \field{title}{Visual Aspects of Media Literacy}
+  \field{volume}{Winter}
+  \field{journaltitle}{Journal of Communication}
+  \field{year}{1998}
+\endentry
+
+\entry{Millerson:2001}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Millerson}{M.}%
+     {Gerald}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Focal Press}%
+  }
+  \strng{namehash}{MG1}
+  \strng{fullhash}{MG1}
+  \field{labelyear}{2001}
+  \field{sortinit}{M}
+  \field{edition}{3rd}
+  \field{title}{Video Production Handbook}
+  \list{location}{1}{%
+    {Oxford}%
+  }
+  \field{year}{2001}
+\endentry
+
+\entry{OToole:1995}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {O'Toole}{O.}%
+     {Michael}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Fries}{F.}%
+     {Peter~Howard}{P.~H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gregory}{G.}%
+     {Michael}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Ablex}%
+  }
+  \strng{namehash}{OM1}
+  \strng{fullhash}{OM1}
+  \field{labelyear}{1995}
+  \field{sortinit}{O}
+  \field{booktitle}{Discourse in Society: Systemic Functional Perspectives}
+  \field{pages}{159\bibrangedash 182}
+  \field{series}{Advances in Discourse Processes}
+  \field{title}{A Systemic-Functional Semiotics of Art}
+  \field{volume}{L}
+  \list{location}{1}{%
+    {Norwood NJ}%
+  }
+  \field{year}{1995}
+\endentry
+
+\entry{Saint-Martin:1990}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Saint-Martin}}{S.}%
+     {Fernande}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Indiana University Press}%
+  }
+  \keyw{language, semiotics, visual}
+  \strng{namehash}{SF1}
+  \strng{fullhash}{SF1}
+  \field{labelyear}{1990}
+  \field{sortinit}{S}
+  \field{isbn}{0253350573, 9780253350572}
+  \field{pages}{255}
+  \field{title}{Semiotics of Visual Language}
+  \field{year}{1990}
+\endentry
+
+\entry{Siebert:1956}{book}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Siebert}{S.}%
+     {F.S.}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Peterson}{P.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schramm}{S.}%
+     {Wilbur}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {University of Illinois Press}%
+  }
+  \strng{namehash}{SFPTSW1}
+  \strng{fullhash}{SFPTSW1}
+  \field{labelyear}{1956}
+  \field{sortinit}{S}
+  \field{title}{Four Theories of the Press}
+  \list{location}{1}{%
+    {Urbana IL}%
+  }
+  \field{year}{1956}
+\endentry
+
+\entry{Sonesson:1996}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Sonesson}{S.}%
+     {G{\"o}ran}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SG1}
+  \strng{fullhash}{SG1}
+  \field{labelyear}{1996}
+  \field{sortinit}{S}
+  \field{booktitle}{LSP and theory of translation. Acts of the XVI Vakki
+  symposion, Text and Image, V{\"o}jri}
+  \field{note}{Online:
+  \url{filserver.arthist.lu.se/kultsem/sonesson/Quadrature1.html} - 24 Jul 08}
+  \field{pages}{9\bibrangedash 33}
+  \field{title}{The Quadrature of the Hermeneutic Circle: The picture as
+  `text'}
+  \list{location}{1}{%
+    {Vaasa}%
+  }
+  \field{year}{1996}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{Thompson:1993}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Thompson}{T.}%
+     {Roy}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Focal Press}%
+  }
+  \keyw{Editing,Production}
+  \strng{namehash}{TR1}
+  \strng{fullhash}{TR1}
+  \field{labelyear}{1993}
+  \field{sortinit}{T}
+  \field{isbn}{0240513401 (pbk) : No price}
+  \field{title}{Grammar of the Edit}
+  \list{location}{1}{%
+    {Oxford}%
+  }
+  \field{annotation}{%
+  Grammar of the edit%
+  }
+  \field{year}{1993}
+\endentry
+
+\entry{Thompson:1998}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Thompson}{T.}%
+     {Roy}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Focal Press}%
+  }
+  \keyw{Cinematography, manuals, production}
+  \strng{namehash}{TR1}
+  \strng{fullhash}{TR1}
+  \field{labelyear}{1998}
+  \field{sortinit}{T}
+  \field{isbn}{0240513983 (pbk) : 16.99}
+  \field{title}{Grammar of the Shot}
+  \list{location}{1}{%
+    {Oxford}%
+  }
+  \field{annotation}{%
+  Grammar of the shot%
+  }
+  \field{year}{1998}
+\endentry
+
+\entry{Tiemens:1978}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Tiemens}{T.}%
+     {Robert~K.}{R.~K.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{United States, politics, portrayal, television, visual}
+  \strng{namehash}{TRK1}
+  \strng{fullhash}{TRK1}
+  \field{labelyear}{1978}
+  \field{sortinit}{T}
+  \field{number}{4}
+  \field{pages}{362\bibrangedash 70}
+  \field{title}{Television's portrayal of the 1976 presidential debates: An
+  analysis of visual content}
+  \field{volume}{45}
+  \field{journaltitle}{Communication Monographs}
+  \field{year}{1978}
+\endentry
+
+\entry{Tuchman:1973}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Tuchman}{T.}%
+     {Gaye}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{TG1}
+  \strng{fullhash}{TG1}
+  \field{labelyear}{1973}
+  \field{sortinit}{T}
+  \field{number}{3}
+  \field{pages}{3\bibrangedash 25}
+  \field{title}{The Technology of Objectivity: {D}oing `Objective' {TV} News
+  Film}
+  \field{volume}{2}
+  \field{journaltitle}{Journal of Contemporary Ethnography}
+  \field{year}{1973}
+\endentry
+
+\entry{Vries:1974}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Vries}{V.}%
+     {Ad}{A.}%
+     {de}{d.}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {North-Holland}%
+  }
+  \keyw{symbols}
+  \strng{namehash}{VAd1}
+  \strng{fullhash}{VAd1}
+  \field{labelyear}{1974}
+  \field{sortinit}{V}
+  \field{title}{Dictionary of Symbols and Imagery}
+  \list{location}{1}{%
+    {Amsterdam}%
+  }
+  \field{year}{1974}
+\endentry
+
+\entry{Wieser:2008}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Wieser}{W.}%
+     {Matthias~J.}{M.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pauli}{P.}%
+     {Paul}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Alpers}{A.}%
+     {Georg~W.}{G.~W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {M{\"u}hlberger}{M.}%
+     {Andreas}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{WMJ+1}
+  \strng{fullhash}{WMJPPAGWMA1}
+  \field{labelyear}{2008}
+  \field{sortinit}{W}
+  \verb{doi}
+  \verb DOI: 10.1016/j.janxdis.2008.04.004
+  \endverb
+  \field{issn}{0887-6185}
+  \field{number}{1}
+  \field{pages}{93 \bibrangedash  103}
+  \field{title}{Is eye to eye contact really threatening and avoided in social
+  anxiety? {An} eye-tracking and psychophysiology study}
+  \verb{url}
+  \verb http://www.sciencedirect.com/science/article/B6VDK-4SDPX6N-1/2/5fa78153
+  \verb 7b0e088fe9687631e88f2032
+  \endverb
+  \field{volume}{23}
+  \field{journaltitle}{Journal of Anxiety Disorders}
+  \field{year}{2008}
+\endentry
+
+\entry{Worth:1981}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Worth}{W.}%
+     {Sol}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {University of Pennsylvania Press}%
+  }
+  \strng{namehash}{WS1}
+  \strng{fullhash}{WS1}
+  \field{labelyear}{1981}
+  \field{sortinit}{W}
+  \field{title}{Studying Visual Communication}
+  \list{location}{1}{%
+    {Philadelphia PA}%
+  }
+  \field{year}{1981}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

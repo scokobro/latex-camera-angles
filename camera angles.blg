@@ -1,0 +1,62 @@
+This is BibTeX, Version 0.99d (TeX Live 2012)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: camera angles.aux
+The style file: biblatex.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated field_info (elt_size=4) to 10304 items from 5000.
+Database file #1: camera_angles-blx.bib
+Database file #2: /Users/spkb/Dropbox/Bibliographies/mybib-noj.bib
+Biblatex version: 1.7
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+You've used 39 entries,
+            6019 wiz_defined-function locations,
+            1427 strings with 16741 characters,
+and the built_in function-call counts, 133499 in all, are:
+= -- 6241
+> -- 4197
+< -- 1617
++ -- 1465
+- -- 1220
+* -- 8967
+:= -- 7334
+add.period$ -- 0
+call.type$ -- 39
+change.case$ -- 1093
+chr.to.int$ -- 35
+cite$ -- 76
+duplicate$ -- 14986
+empty$ -- 13881
+format.name$ -- 2252
+if$ -- 31127
+int.to.chr$ -- 0
+int.to.str$ -- 143
+missing$ -- 0
+newline$ -- 1071
+num.names$ -- 2402
+pop$ -- 11956
+preamble$ -- 1
+purify$ -- 1160
+quote$ -- 0
+skip$ -- 8457
+stack$ -- 0
+substring$ -- 4326
+swap$ -- 5151
+text.length$ -- 1009
+text.prefix$ -- 41
+top$ -- 1
+type$ -- 1470
+warning$ -- 0
+while$ -- 750
+width$ -- 0
+write$ -- 1031

@@ -1,0 +1,118 @@
+\documentclass[11pt, headings=normal]{scrartcl}
+
+\usepackage{geometry}                % See geometry.pdf to learn the layout options. There are lots.
+\geometry{a4paper}                   % ... or a4paper or a5paper or ... 
+
+%%%%%%%%%%%biblatex setup%%%%%%%%%%
+\usepackage[%
+natbib=true, %allows natbib style citation commands
+style=authoryear,%authoryear citation/bibliographic style
+isbn=false, %don't show ISBNs
+url=true, %do show urls where appropriate
+doi=false, %don't show DOIs
+eprint=false,%no print field
+sortlocale=en, %sort bib entries in English order
+firstinits=true, %makes bib forenames into initials
+urldate=long, %affects format of URL access date 
+dateabbrev=true% makes sure above uses short month names
+]{biblatex}
+
+\DeclareNameAlias{sortname}{last-first}%all author names surname first
+
+%%%%%%%FORMATTING CITATIONS%%%%%
+
+\DeclareFieldFormat{postnote}{#1}%gets rid of pp. in citations
+\renewcommand{\nameyeardelim}{~}% just a space, no comma, between name and yr in citations
+\renewcommand{\postnotedelim}{:\,}% colon+narrow space before pages in citations
+\renewcommand{\intitlepunct}{\,}% gets rid of colon after 'In' in collected works
+
+%%%%%%%%%%%%%%%%%
+
+%%%FORMATTING BIBLIOGRAPHY LISTING%%%%%%
+
+\renewbibmacro{in:}{%suppresses "In:" ...
+  \ifentrytype{article}{}{%if its an article
+  \printtext{\bibstring{in}\intitlepunct}}}
+
+\DeclareFieldFormat
+  [article, inbook, incollection, inproceedings, patent, thesis, unpublished]
+  {title}{#1}%no quotes around titles of chapters/article titles
+
+\DeclareFieldFormat
+  [article, inbook, incollection, inproceedings, patent, thesis, unpublished]
+  {volume}{\mkbibparens{#1}\nopunct} %puts volume number in brackets
+
+\DeclareFieldFormat
+  [article, inbook, incollection, inproceedings, patent, thesis, unpublished]
+  {number}{{#1}\addcolon} % issue number followed by colon
+
+\DeclareFieldFormat
+  [article, inbook, incollection, inproceedings, patent, thesis, unpublished]
+  {pages}{{\nopp#1}} %removes 'pp.' from pages
+  
+\DefineBibliographyStrings{english}{%
+urlseen = {Accessed:},% What goes in front of the date a URL was accessed/retrieved et
+editor = {(Ed)},%Ed - no dot, in brackets
+editors = {(Eds)},% Eds - no dot, in brackets
+byeditor = {(Ed.)}}% 'Edited by' for edited volumes
+
+%\DefineBibliographyStrings{english}{in = {\,}}% What to use for 'IN'
+
+%%%%%%%%%end of bib latex setup%%%%%%%%%%%%
+
+\addbibresource{/Users/spkb/Dropbox/Bibliographies/mybib-noj.bib}
+
+\usepackage{graphicx}
+\usepackage{epstopdf}
+\usepackage{filecontents}% allows data in source file
+\usepackage{xcolor}%color for bar graphs
+\usepackage{pstricks}%for drawing graphs etc
+\usepackage{pst-bar}%for drawing bar graphs
+\usepackage{pst-plot}%for drawing plotted lines
+\usepackage{pstricks-add}%as above - needs to be last
+
+\usepackage[linecolor=red, backgroundcolor=white, bordercolor=red]{todonotes}%todos in margin
+\usepackage{textcomp}%text goodies
+
+\usepackage{tabulary}% necess for MMD - tables
+\usepackage{booktabs}% necess for MMD - tables
+\usepackage{hyperref}% necess for MMD - Xref system
+\usepackage[nameinlink, noabbrev]{cleveref}
+
+\usepackage{xspace}
+\newcommand{\hb}{\emph{hanbaiten}\xspace}
+\newcommand{\og}{\emph{oshigami}\xspace}
+\newcommand{\crs}{\emph{chirashi}\xspace}
+\newcommand{\nnip}{\emph{Niigata Nippō}\xspace}
+\newcommand{\ty}{\textyen}
+
+\hyphenation{te-re-bi}
+
+%%%create CJK cmd and env for Japanese text%%%%%%%%%%%%%%
+\usepackage{fontspec}
+ \defaultfontfeatures{Scale=MatchLowercase}
+\newenvironment{CJK}{\fontspec[Scale=0.9]{Hiragino Mincho Pro}}{}
+\newcommand{\cjk}[1]{{\fontspec[Scale=0.9]{Hiragino Mincho Pro}#1}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+\XeTeXlinebreaklocale"en"%enables Japanese text/line breaking
+
+%\renewcommand\enoteformat{% this formats the endnotes without superscript numbers
+%   \noindent\theenmark.\ \hangindent .7\parindent%
+%}
+%%%%%%%NEW LIST ENVIRONMENTS%%%%%%%%%%%
+\newenvironment{close_enum}{
+\begin{enumerate}
+ \setlength{\itemsep}{1pt}
+ \setlength{\parskip}{1pt}
+ \setlength{\parsep}{0pt}}{\end{enumerate}
+}
+\newenvironment{close_descrip}{
+\begin{description}
+ \setlength{\itemsep}{1pt}
+ \setlength{\parskip}{1pt}
+ \setlength{\parsep}{0pt}}{\end{description}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
